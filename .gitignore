@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data and logs (Crucial for quantitative projects)
+data/
+logs/
+*.csv
+*.parquet
+*.h5
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db

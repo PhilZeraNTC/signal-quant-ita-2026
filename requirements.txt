@@ -1,0 +1,12 @@
+yfinance
+pandas
+numpy
+tenacity
+requests
+pydantic
+google-genai
+lightgbm
+optuna
+scikit-learn
+pytest
+pytest-asyncio
